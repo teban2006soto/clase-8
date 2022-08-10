@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-self: center;
+}
+.ciudad{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.música{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.documento{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
